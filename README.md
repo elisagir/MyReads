@@ -2,6 +2,8 @@
 
 Project number #7 of the Udacity Front-End Nanodegree. It's an app that manages the books and shelfs.
 
+Live: [https://jzn5mwp1x9.codesandbox.io/](https://jzn5mwp1x9.codesandbox.io/)
+
 ## TL;DR
 
 To get started developing right away:

@@ -80,7 +80,7 @@ class SearchPage extends React.Component {
                     />
                     <div className="book-shelf-changer">
                       <select
-                        value={setShelf || "move"}
+                        value={setShelf || "read"}
                         onChange={e => changeBookShelf(book, e.target.value)}
                       >
                         <option value="move" disabled>
